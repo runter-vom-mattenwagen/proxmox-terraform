@@ -10,6 +10,7 @@ Clone this repository.
 
 You'll find the following file structure:
 
+```
 ├── modules
 │   └── infrastructure
 │       ├── local_file.tf
@@ -18,6 +19,7 @@ You'll find the following file structure:
 │       └── worker.tf
 └── ubuntu-standard
     └── infrastructure.tf
+```
     
 Navigate to modules/infrastructure. Change pm_api_url, pm_user and pm_password to fit your environment. 
 
